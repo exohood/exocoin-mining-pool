@@ -382,7 +382,7 @@ Donations
 * XMR: `48rB9X6ygZQ4uNBSKJP3MKU9iFK87e8vejEi762eNdTPB61A9VayUnL75HHi2SER3gf5i9PXpiS2kiCwDyanvNm5S5Aq3WF`
 
 
-Create by
+Created by
 ===
 
 * [Julio Arias](//github.com/Xpunk7) 
