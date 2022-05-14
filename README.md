@@ -1,4 +1,4 @@
-exohoodhood Pool (node-cryptonote-pool)
+Exohood Pool (node-cryptonote-pool)
 ====================
 
 High performance Node.js (with native C addons) mining pool for CryptoNote based coins such as exohoodhood, Monero, Bytecoin, QuazarCoin, HoneyPenny, etc.
