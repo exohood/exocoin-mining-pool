@@ -55,7 +55,7 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 ### Community / Support
 
 * [exohood Forum](https://exohoodhood.createaforum.com/)
-* [exohood Github](https://github.com/exohoodhood)
+* [exohood Github](https://github.com/exohood)
 
 
 #### Pools Using This Software
@@ -379,8 +379,6 @@ the Node.js modules, and any config files that may have been changed.
 Donations
 ---------
 * exohood: `hood1kCFXeExRaBhbDNq66TQ3rF9XSkMreei8t1jXfT2ndgY6bnsNEUtEKbEhba3YHk2CuPCpxZFrGNcAJ9Lv22ACY7eapPgQtNb`
-* XMR: `48rB9X6ygZQ4uNBSKJP3MKU9iFK87e8vejEi762eNdTPB61A9VayUnL75HHi2SER3gf5i9PXpiS2kiCwDyanvNm5S5Aq3WF`
-
 
 Created by
 ===
