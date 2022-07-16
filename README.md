@@ -378,12 +378,13 @@ the Node.js modules, and any config files that may have been changed.
 
 Donations
 ---------
-* exohood: `hood1kCFXeExRaBhbDNq66TQ3rF9XSkMreei8t1jXfT2ndgY6bnsNEUtEKbEhba3YHk2CuPCpxZFrGNcAJ9Lv22ACY7eapPgQtNb`
+* ExoCoin: `hood1kCFXeExRaBhbDNq66TQ3rF9XSkMreei8t1jXfT2ndgY6bnsNEUtEKbEhba3YHk2CuPCpxZFrGNcAJ9Lv22ACY7eapPgQtNb`
+* Monero: `488HRAK2hLB7HvpRa61NCZNjNEXgFyxje66x1En9hhGJZH58uWtkosr46XKJXvbMZd4ScCP2AWXuTjhHJVsU2RMHLxQuB6U`
 
 Created by
 ===
 
-* [Xpunk7](//github.com/Xpunk7) 
+* [JJ Uzumaki](//github.com/Xpunk7) 
 
 License
 -------
